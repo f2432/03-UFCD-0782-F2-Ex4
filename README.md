@@ -1,5 +1,5 @@
 # 03 - UFCD-0782 - F1 - Ex3
-Este exercício é escrito em C, será testado com o make e um script bash.
+Este exercício é escrito em C. O exercício não será testado automaticamente.
 
 ### O Exercício
 Escreva um programa em C (MeuNome.c) para imprimir no terminal o seu nome, data de
