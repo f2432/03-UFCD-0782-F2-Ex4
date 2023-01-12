@@ -1,8 +1,8 @@
 a.out:
-	gcc Aaprender2.c
+	gcc MeuNome.c
 
 clean:
-	rm Aaprender2
+	rm MeuNome
 
 test: a.out
 	bash test.sh
