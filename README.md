@@ -16,6 +16,5 @@ Morada : Santo Tirso
 
 
 ### Notas
-- o teste verificará se a saída do programa é exatamente a esperada.
-- tenha em atenção que basta uma letra diferente do esperado para que o programa não seja aceite.
+- O exercício não será testado automaticamente.
 
